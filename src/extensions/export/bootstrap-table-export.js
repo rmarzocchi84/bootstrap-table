@@ -14,9 +14,9 @@
         csv: 'CSV',
         txt: 'TXT',
         sql: 'SQL',
-        doc: 'MS-Word',
-        excel: 'MS-Excel',
-        powerpoint: 'MS-Powerpoint',
+        doc: 'Libreoffice Writer /MS-Word',
+        excel: 'Libreoffice Calc / MS-Excel',
+        powerpoint: 'Libreoffice Impress / MS-Powerpoint',
         pdf: 'PDF'
     };
 
